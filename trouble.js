@@ -1,6 +1,6 @@
 let v1 = 3;
 let v2 = 4
-//alert("3 times 4" + equals + v1 * v2);
+window.alert("3 times 4 equals" + v1 * v2);
 
  // This sets the general styling for the divs within the section tag using .style
             let section = document.getElementById("s1") //got rid of the s from elements
